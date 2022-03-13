@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-My main objectives for this code was to focus on accessibility as well as making the code easier to read. 
+My main objectives for this code was to focus on accessibility as well as making the code easier to read. <br />
 <br />
 In order to make the code easier to read I: <br />
 -Replaced the div elements with semantic html elements.<br />
@@ -12,5 +12,5 @@ Made website more accessible by: <br />
 <br />
 Below I included the live URL link to access the webpage.
 <br />
-https://vhivestate.github.io/horiseon-website/
+https://vhivestate.github.io/horiseon-website/ <br />
 ![Screenshot](/horiseon-website/horiseon-screenshot.png)
