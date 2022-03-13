@@ -13,4 +13,4 @@ Made website more accessible by: <br />
 Below I included the live URL link to access the webpage.
 <br />
 https://vhivestate.github.io/horiseon-website/ <br />
-![Screenshot](/horiseon-website/horiseon-screenshot.png)
+![Screenshot](./horiseon-screenshot.png)
